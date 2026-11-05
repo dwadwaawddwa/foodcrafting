@@ -1,0 +1,16 @@
+# Cache des dumps du jeu (regeneres par build_data.py)
+scripts/_items.json
+scripts/_items_fmt.json
+scripts/world.json
+
+# Donnees utilisateur
+data/manual_prices.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Claude Code
+.claude/

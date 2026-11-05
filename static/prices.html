@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Albion Food Craft — Prix manuels & Fish Sauce</title>
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<div id="nav"></div>
+<div class="layout">
+  <aside class="card sidebar">
+    <h2>Paramètres</h2>
+    <div id="params"></div>
+  </aside>
+  <main>
+    <div class="card">
+      <h2>🐟 Coût Fish Sauce (poisson + algue)</h2>
+      <div class="hint">Calcule le prix de revient de la sauce de poisson à partir des morceaux de poisson (issus du poisson) et des algues, via l'API. Sert d'ingrédient pour les plats enchantés.</div>
+      <button class="primary" id="sauceBtn" style="max-width:260px">Calculer les Fish Sauce</button>
+      <div id="sauceOut" style="margin-top:14px"></div>
+    </div>
+
+    <div class="card" style="margin-top:18px">
+      <h2>Prix manuels</h2>
+      <div class="hint">Un prix manuel remplace le prix de l'API pour cet item, dans toutes les villes. Utile quand l'API n'a pas de donnée récente.</div>
+      <div class="row" style="align-items:flex-end;margin-top:10px">
+        <div style="flex:2;position:relative">
+          <label class="f">Item</label>
+          <input type="text" id="itemSearch" placeholder="Rechercher (fr/en/ID)… ex: poisson, seaweed, T4_MEAT">
+          <div id="sugg" class="card" style="position:absolute;z-index:10;left:0;right:0;display:none;max-height:280px;overflow:auto;padding:6px"></div>
+        </div>
+        <div><label class="f">Prix achat</label><input type="number" id="mBuy" min="0"></div>
+        <div><label class="f">Prix vente</label><input type="number" id="mSell" min="0"></div>
+        <div style="flex:0 0 auto"><button class="ghost" id="addBtn" style="padding:9px 16px">Enregistrer</button></div>
+      </div>
+      <div id="selItem" class="small muted" style="margin-top:6px"></div>
+      <div id="manualList" style="margin-top:14px"></div>
+    </div>
+  </main>
+</div>
+<script src="/js/common.js"></script>
+<script src="/js/prices.js"></script>
+</body>
+</html>

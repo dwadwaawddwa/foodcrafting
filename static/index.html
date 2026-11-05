@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Albion Food Craft — Calculateur</title>
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<div id="nav"></div>
+<div class="layout">
+  <aside class="card sidebar">
+    <h2>Paramètres</h2>
+    <div id="params"></div>
+  </aside>
+
+  <main>
+    <div class="card">
+      <h2>Choisir une recette</h2>
+      <div class="row">
+        <div style="flex:2">
+          <label class="f">Recette</label>
+          <select id="product"></select>
+        </div>
+        <div>
+          <label class="f">Enchantement</label>
+          <select id="enchant"></select>
+        </div>
+        <div style="flex:0 0 auto;display:flex;align-items:flex-end">
+          <button class="primary" style="margin:0;width:auto;padding:11px 22px" id="calcBtn">Calculer</button>
+        </div>
+      </div>
+      <div class="hint">Le prix vient de l'API Albion Free Market / AODP. Ajoute des prix manuels dans l'onglet dédié (ils sont prioritaires).</div>
+    </div>
+
+    <div id="result" style="margin-top:18px"></div>
+  </main>
+</div>
+<script src="/js/common.js"></script>
+<script src="/js/calc.js"></script>
+</body>
+</html>

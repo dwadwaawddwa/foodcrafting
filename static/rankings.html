@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Albion Food Craft — Classement rentabilité</title>
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<div id="nav"></div>
+<div class="layout">
+  <aside class="card sidebar">
+    <h2>Paramètres</h2>
+    <div id="params"></div>
+  </aside>
+  <main>
+    <div class="card">
+      <h2>Filtres</h2>
+      <label class="f">Catégorie</label>
+      <div class="chips" id="catChips"></div>
+      <label class="f">Tier</label>
+      <div class="chips" id="tierChips"></div>
+      <label class="f">Enchantement</label>
+      <div class="chips" id="enchChips"></div>
+      <label class="f">Famille de plat</label>
+      <div class="chips" id="famChips"></div>
+      <label class="f">Trier par</label>
+      <div class="seg" id="sortSeg">
+        <button data-v="profit" class="on">Profit</button>
+        <button data-v="roi">ROI %</button>
+        <button data-v="profit_per_focus">Profit/focus</button>
+        <button data-v="profit_per_nutrition">Profit/nutrition</button>
+      </div>
+      <button class="primary" id="goBtn">Calculer le classement</button>
+    </div>
+    <div id="out" style="margin-top:18px"></div>
+  </main>
+</div>
+<script src="/js/common.js"></script>
+<script src="/js/rankings.js"></script>
+</body>
+</html>

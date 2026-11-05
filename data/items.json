@@ -1,0 +1,2558 @@
+{
+ "QUESTITEM_TOKEN_AVALON": {
+  "name_en": "Avalonian Energy",
+  "name_fr": "Énergie avalonienne",
+  "tier": 0,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": ""
+ },
+ "T1_CARROT": {
+  "name_en": "Carrots",
+  "name_fr": "Carottes",
+  "tier": 1,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": ""
+ },
+ "T1_FISHCHOPS": {
+  "name_en": "Chopped Fish",
+  "name_fr": "Morceaux de poisson",
+  "tier": 1,
+  "enchant": 0,
+  "craftable": true,
+  "category": "refined",
+  "family": "FISHCHOPS"
+ },
+ "T1_FISHSAUCE_LEVEL1": {
+  "name_en": "Basic Fish Sauce",
+  "name_fr": "Sauce de poisson basique",
+  "tier": 1,
+  "enchant": 0,
+  "craftable": true,
+  "category": "sauce",
+  "family": "FISHSAUCE"
+ },
+ "T1_FISHSAUCE_LEVEL2": {
+  "name_en": "Fancy Fish Sauce",
+  "name_fr": "Sauce de poisson raffinée",
+  "tier": 1,
+  "enchant": 0,
+  "craftable": true,
+  "category": "sauce",
+  "family": "FISHSAUCE"
+ },
+ "T1_FISHSAUCE_LEVEL3": {
+  "name_en": "Special Fish Sauce",
+  "name_fr": "Sauce de poisson spéciale",
+  "tier": 1,
+  "enchant": 0,
+  "craftable": true,
+  "category": "sauce",
+  "family": "FISHSAUCE"
+ },
+ "T1_FISH_FRESHWATER_ALL_COMMON": {
+  "name_en": "Common Rudd",
+  "name_fr": "Gardon rouge",
+  "tier": 1,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T1_FISH_SALTWATER_ALL_COMMON": {
+  "name_en": "Common Herring",
+  "name_fr": "Hareng commun",
+  "tier": 1,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T1_MEAL_GRILLEDFISH": {
+  "name_en": "Grilled Fish",
+  "name_fr": "Poisson grillé",
+  "tier": 1,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "GRILLEDFISH"
+ },
+ "T1_MEAL_SEAWEEDSALAD": {
+  "name_en": "Seaweed Salad",
+  "name_fr": "Salade d'algues",
+  "tier": 1,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "SEAWEEDSALAD"
+ },
+ "T1_MEAL_SOUP": {
+  "name_en": "Carrot Soup",
+  "name_fr": "Soupe de carottes",
+  "tier": 1,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "SOUP"
+ },
+ "T1_MEAL_SOUP@1": {
+  "name_en": "Carrot Soup",
+  "name_fr": "Soupe de carottes",
+  "tier": 1,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "SOUP"
+ },
+ "T1_MEAL_SOUP@2": {
+  "name_en": "Carrot Soup",
+  "name_fr": "Soupe de carottes",
+  "tier": 1,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "SOUP"
+ },
+ "T1_MEAL_SOUP@3": {
+  "name_en": "Carrot Soup",
+  "name_fr": "Soupe de carottes",
+  "tier": 1,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "SOUP"
+ },
+ "T1_MEAL_SOUP_FISH": {
+  "name_en": "Greenmoor Clam Soup",
+  "name_fr": "Soupe de clovisses blanches",
+  "tier": 1,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "SOUP_FISH"
+ },
+ "T1_MEAL_SOUP_FISH@1": {
+  "name_en": "Greenmoor Clam Soup",
+  "name_fr": "Soupe de clovisses blanches",
+  "tier": 1,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "SOUP_FISH"
+ },
+ "T1_MEAL_SOUP_FISH@2": {
+  "name_en": "Greenmoor Clam Soup",
+  "name_fr": "Soupe de clovisses blanches",
+  "tier": 1,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "SOUP_FISH"
+ },
+ "T1_MEAL_SOUP_FISH@3": {
+  "name_en": "Greenmoor Clam Soup",
+  "name_fr": "Soupe de clovisses blanches",
+  "tier": 1,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "SOUP_FISH"
+ },
+ "T1_SEAWEED": {
+  "name_en": "Seaweed",
+  "name_fr": "Algues",
+  "tier": 1,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": ""
+ },
+ "T2_AGARIC": {
+  "name_en": "Arcane Agaric",
+  "name_fr": "Agaric ésotérique",
+  "tier": 2,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": ""
+ },
+ "T2_BEAN": {
+  "name_en": "Beans",
+  "name_fr": "Haricots",
+  "tier": 2,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": ""
+ },
+ "T2_FISH_FRESHWATER_ALL_COMMON": {
+  "name_en": "Striped Carp",
+  "name_fr": "Bavure sept-rayée",
+  "tier": 2,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T2_FISH_SALTWATER_ALL_COMMON": {
+  "name_en": "Striped Mackerel",
+  "name_fr": "Maquereau bleu",
+  "tier": 2,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T2_MEAL_SALAD": {
+  "name_en": "Bean Salad",
+  "name_fr": "Salade de haricots",
+  "tier": 2,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "SALAD"
+ },
+ "T2_MEAL_SALAD@1": {
+  "name_en": "Bean Salad",
+  "name_fr": "Salade de haricots",
+  "tier": 2,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "SALAD"
+ },
+ "T2_MEAL_SALAD@2": {
+  "name_en": "Bean Salad",
+  "name_fr": "Salade de haricots",
+  "tier": 2,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "SALAD"
+ },
+ "T2_MEAL_SALAD@3": {
+  "name_en": "Bean Salad",
+  "name_fr": "Salade de haricots",
+  "tier": 2,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "SALAD"
+ },
+ "T2_MEAL_SALAD_FISH": {
+  "name_en": "Shallowshore Squid Salad",
+  "name_fr": "Salade de calamars des récifs",
+  "tier": 2,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "SALAD_FISH"
+ },
+ "T2_MEAL_SALAD_FISH@1": {
+  "name_en": "Shallowshore Squid Salad",
+  "name_fr": "Salade de calamars des récifs",
+  "tier": 2,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "SALAD_FISH"
+ },
+ "T2_MEAL_SALAD_FISH@2": {
+  "name_en": "Shallowshore Squid Salad",
+  "name_fr": "Salade de calamars des récifs",
+  "tier": 2,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "SALAD_FISH"
+ },
+ "T2_MEAL_SALAD_FISH@3": {
+  "name_en": "Shallowshore Squid Salad",
+  "name_fr": "Salade de calamars des récifs",
+  "tier": 2,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "SALAD_FISH"
+ },
+ "T3_COMFREY": {
+  "name_en": "Brightleaf Comfrey",
+  "name_fr": "Consoude feuille-vive",
+  "tier": 3,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": ""
+ },
+ "T3_EGG": {
+  "name_en": "Hen Eggs",
+  "name_fr": "Œufs de poule",
+  "tier": 3,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": ""
+ },
+ "T3_FISH_FRESHWATER_ALL_COMMON": {
+  "name_en": "Albion Perch",
+  "name_fr": "Perche d'Albion",
+  "tier": 3,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T3_FISH_FRESHWATER_AVALON_RARE": {
+  "name_en": "Whitefog Snapper",
+  "name_fr": "Lutjan albruine",
+  "tier": 3,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T3_FISH_FRESHWATER_FOREST_RARE": {
+  "name_en": "Greenriver Eel",
+  "name_fr": "Anguille verte",
+  "tier": 3,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T3_FISH_FRESHWATER_HIGHLANDS_RARE": {
+  "name_en": "Stonestream Lurcher",
+  "name_fr": "Loche pétrée",
+  "tier": 3,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T3_FISH_FRESHWATER_MOUNTAIN_RARE": {
+  "name_en": "Upland Coldeye",
+  "name_fr": "Sar noirtête",
+  "tier": 3,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T3_FISH_FRESHWATER_STEPPE_RARE": {
+  "name_en": "Lowriver Crab",
+  "name_fr": "Crabe fouisseur",
+  "tier": 3,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T3_FISH_FRESHWATER_SWAMP_RARE": {
+  "name_en": "Greenmoor Clam",
+  "name_fr": "Clovisse blanche",
+  "tier": 3,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T3_FISH_SALTWATER_ALL_COMMON": {
+  "name_en": "Flatshore Plaice",
+  "name_fr": "Plie lisse",
+  "tier": 3,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T3_FISH_SALTWATER_ALL_RARE": {
+  "name_en": "Shallowshore Squid",
+  "name_fr": "Calamar des récifs",
+  "tier": 3,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T3_FLOUR": {
+  "name_en": "Flour",
+  "name_fr": "Farine",
+  "tier": 3,
+  "enchant": 0,
+  "craftable": true,
+  "category": "refined",
+  "family": ""
+ },
+ "T3_MEAL_OMELETTE": {
+  "name_en": "Chicken Omelette",
+  "name_fr": "Omelette au poulet",
+  "tier": 3,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE"
+ },
+ "T3_MEAL_OMELETTE@1": {
+  "name_en": "Chicken Omelette",
+  "name_fr": "Omelette au poulet",
+  "tier": 3,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE"
+ },
+ "T3_MEAL_OMELETTE@2": {
+  "name_en": "Chicken Omelette",
+  "name_fr": "Omelette au poulet",
+  "tier": 3,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE"
+ },
+ "T3_MEAL_OMELETTE@3": {
+  "name_en": "Chicken Omelette",
+  "name_fr": "Omelette au poulet",
+  "tier": 3,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE"
+ },
+ "T3_MEAL_OMELETTE_AVALON": {
+  "name_en": "Avalonian Chicken Omelette",
+  "name_fr": "Omelette au poulet avalonienne",
+  "tier": 3,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE_AVALON"
+ },
+ "T3_MEAL_OMELETTE_AVALON@1": {
+  "name_en": "Avalonian Chicken Omelette",
+  "name_fr": "Omelette au poulet avalonienne",
+  "tier": 3,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE_AVALON"
+ },
+ "T3_MEAL_OMELETTE_AVALON@2": {
+  "name_en": "Avalonian Chicken Omelette",
+  "name_fr": "Omelette au poulet avalonienne",
+  "tier": 3,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE_AVALON"
+ },
+ "T3_MEAL_OMELETTE_AVALON@3": {
+  "name_en": "Avalonian Chicken Omelette",
+  "name_fr": "Omelette au poulet avalonienne",
+  "tier": 3,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE_AVALON"
+ },
+ "T3_MEAL_OMELETTE_FISH": {
+  "name_en": "Lowriver Crab Omelette",
+  "name_fr": "Omelette au crabe fouisseur",
+  "tier": 3,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE_FISH"
+ },
+ "T3_MEAL_OMELETTE_FISH@1": {
+  "name_en": "Lowriver Crab Omelette",
+  "name_fr": "Omelette au crabe fouisseur",
+  "tier": 3,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE_FISH"
+ },
+ "T3_MEAL_OMELETTE_FISH@2": {
+  "name_en": "Lowriver Crab Omelette",
+  "name_fr": "Omelette au crabe fouisseur",
+  "tier": 3,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE_FISH"
+ },
+ "T3_MEAL_OMELETTE_FISH@3": {
+  "name_en": "Lowriver Crab Omelette",
+  "name_fr": "Omelette au crabe fouisseur",
+  "tier": 3,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE_FISH"
+ },
+ "T3_MEAL_PIE": {
+  "name_en": "Chicken Pie",
+  "name_fr": "Tourte au poulet",
+  "tier": 3,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "PIE"
+ },
+ "T3_MEAL_PIE@1": {
+  "name_en": "Chicken Pie",
+  "name_fr": "Tourte au poulet",
+  "tier": 3,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "PIE"
+ },
+ "T3_MEAL_PIE@2": {
+  "name_en": "Chicken Pie",
+  "name_fr": "Tourte au poulet",
+  "tier": 3,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "PIE"
+ },
+ "T3_MEAL_PIE@3": {
+  "name_en": "Chicken Pie",
+  "name_fr": "Tourte au poulet",
+  "tier": 3,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "PIE"
+ },
+ "T3_MEAL_PIE_FISH": {
+  "name_en": "Upland Coldeye Pie",
+  "name_fr": "Tourte au sar noirtête",
+  "tier": 3,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "PIE_FISH"
+ },
+ "T3_MEAL_PIE_FISH@1": {
+  "name_en": "Upland Coldeye Pie",
+  "name_fr": "Tourte au sar noirtête",
+  "tier": 3,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "PIE_FISH"
+ },
+ "T3_MEAL_PIE_FISH@2": {
+  "name_en": "Upland Coldeye Pie",
+  "name_fr": "Tourte au sar noirtête",
+  "tier": 3,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "PIE_FISH"
+ },
+ "T3_MEAL_PIE_FISH@3": {
+  "name_en": "Upland Coldeye Pie",
+  "name_fr": "Tourte au sar noirtête",
+  "tier": 3,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "PIE_FISH"
+ },
+ "T3_MEAL_ROAST": {
+  "name_en": "Roast Chicken",
+  "name_fr": "Poulet rôti",
+  "tier": 3,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "ROAST"
+ },
+ "T3_MEAL_ROAST@1": {
+  "name_en": "Roast Chicken",
+  "name_fr": "Poulet rôti",
+  "tier": 3,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "ROAST"
+ },
+ "T3_MEAL_ROAST@2": {
+  "name_en": "Roast Chicken",
+  "name_fr": "Poulet rôti",
+  "tier": 3,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "ROAST"
+ },
+ "T3_MEAL_ROAST@3": {
+  "name_en": "Roast Chicken",
+  "name_fr": "Poulet rôti",
+  "tier": 3,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "ROAST"
+ },
+ "T3_MEAL_ROAST_FISH": {
+  "name_en": "Roasted Whitefog Snapper",
+  "name_fr": "Lutjan albruine rôti",
+  "tier": 3,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "ROAST_FISH"
+ },
+ "T3_MEAL_ROAST_FISH@1": {
+  "name_en": "Roasted Whitefog Snapper",
+  "name_fr": "Lutjan albruine rôti",
+  "tier": 3,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "ROAST_FISH"
+ },
+ "T3_MEAL_ROAST_FISH@2": {
+  "name_en": "Roasted Whitefog Snapper",
+  "name_fr": "Lutjan albruine rôti",
+  "tier": 3,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "ROAST_FISH"
+ },
+ "T3_MEAL_ROAST_FISH@3": {
+  "name_en": "Roasted Whitefog Snapper",
+  "name_fr": "Lutjan albruine rôti",
+  "tier": 3,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "ROAST_FISH"
+ },
+ "T3_MEAL_SOUP": {
+  "name_en": "Wheat Soup",
+  "name_fr": "Soupe de blé",
+  "tier": 3,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "SOUP"
+ },
+ "T3_MEAL_SOUP@1": {
+  "name_en": "Wheat Soup",
+  "name_fr": "Soupe de blé",
+  "tier": 3,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "SOUP"
+ },
+ "T3_MEAL_SOUP@2": {
+  "name_en": "Wheat Soup",
+  "name_fr": "Soupe de blé",
+  "tier": 3,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "SOUP"
+ },
+ "T3_MEAL_SOUP@3": {
+  "name_en": "Wheat Soup",
+  "name_fr": "Soupe de blé",
+  "tier": 3,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "SOUP"
+ },
+ "T3_MEAL_SOUP_FISH": {
+  "name_en": "Murkwater Clam Soup",
+  "name_fr": "Soupe de palourdes vaseuses",
+  "tier": 3,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "SOUP_FISH"
+ },
+ "T3_MEAL_SOUP_FISH@1": {
+  "name_en": "Murkwater Clam Soup",
+  "name_fr": "Soupe de palourdes vaseuses",
+  "tier": 3,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "SOUP_FISH"
+ },
+ "T3_MEAL_SOUP_FISH@2": {
+  "name_en": "Murkwater Clam Soup",
+  "name_fr": "Soupe de palourdes vaseuses",
+  "tier": 3,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "SOUP_FISH"
+ },
+ "T3_MEAL_SOUP_FISH@3": {
+  "name_en": "Murkwater Clam Soup",
+  "name_fr": "Soupe de palourdes vaseuses",
+  "tier": 3,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "SOUP_FISH"
+ },
+ "T3_MEAT": {
+  "name_en": "Raw Chicken",
+  "name_fr": "Poulet cru",
+  "tier": 3,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": ""
+ },
+ "T3_WHEAT": {
+  "name_en": "Sheaf of Wheat",
+  "name_fr": "Gerbe de blé",
+  "tier": 3,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": ""
+ },
+ "T4_BREAD": {
+  "name_en": "Bread",
+  "name_fr": "Pain",
+  "tier": 4,
+  "enchant": 0,
+  "craftable": true,
+  "category": "refined",
+  "family": ""
+ },
+ "T4_BURDOCK": {
+  "name_en": "Crenellated Burdock",
+  "name_fr": "Chardon crénelé",
+  "tier": 4,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": ""
+ },
+ "T4_BUTTER": {
+  "name_en": "Goat's Butter",
+  "name_fr": "Beurre de chèvre",
+  "tier": 4,
+  "enchant": 0,
+  "craftable": true,
+  "category": "refined",
+  "family": ""
+ },
+ "T4_FISH_FRESHWATER_ALL_COMMON": {
+  "name_en": "Bluescale Pike",
+  "name_fr": "Broche écaille-bleue",
+  "tier": 4,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T4_FISH_SALTWATER_ALL_COMMON": {
+  "name_en": "Bluescale Cod",
+  "name_fr": "Cabillaud charbonnier",
+  "tier": 4,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T4_MEAL_SALAD": {
+  "name_en": "Turnip Salad",
+  "name_fr": "Salade de navets",
+  "tier": 4,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "SALAD"
+ },
+ "T4_MEAL_SALAD@1": {
+  "name_en": "Turnip Salad",
+  "name_fr": "Salade de navets",
+  "tier": 4,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "SALAD"
+ },
+ "T4_MEAL_SALAD@2": {
+  "name_en": "Turnip Salad",
+  "name_fr": "Salade de navets",
+  "tier": 4,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "SALAD"
+ },
+ "T4_MEAL_SALAD@3": {
+  "name_en": "Turnip Salad",
+  "name_fr": "Salade de navets",
+  "tier": 4,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "SALAD"
+ },
+ "T4_MEAL_SALAD_FISH": {
+  "name_en": "Midwater Octopus Salad",
+  "name_fr": "Salade de petites pieuvres",
+  "tier": 4,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "SALAD_FISH"
+ },
+ "T4_MEAL_SALAD_FISH@1": {
+  "name_en": "Midwater Octopus Salad",
+  "name_fr": "Salade de petites pieuvres",
+  "tier": 4,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "SALAD_FISH"
+ },
+ "T4_MEAL_SALAD_FISH@2": {
+  "name_en": "Midwater Octopus Salad",
+  "name_fr": "Salade de petites pieuvres",
+  "tier": 4,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "SALAD_FISH"
+ },
+ "T4_MEAL_SALAD_FISH@3": {
+  "name_en": "Midwater Octopus Salad",
+  "name_fr": "Salade de petites pieuvres",
+  "tier": 4,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "SALAD_FISH"
+ },
+ "T4_MEAL_SANDWICH": {
+  "name_en": "Goat Sandwich",
+  "name_fr": "Sandwich à la chèvre",
+  "tier": 4,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH"
+ },
+ "T4_MEAL_SANDWICH@1": {
+  "name_en": "Goat Sandwich",
+  "name_fr": "Sandwich à la chèvre",
+  "tier": 4,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH"
+ },
+ "T4_MEAL_SANDWICH@2": {
+  "name_en": "Goat Sandwich",
+  "name_fr": "Sandwich à la chèvre",
+  "tier": 4,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH"
+ },
+ "T4_MEAL_SANDWICH@3": {
+  "name_en": "Goat Sandwich",
+  "name_fr": "Sandwich à la chèvre",
+  "tier": 4,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH"
+ },
+ "T4_MEAL_SANDWICH_AVALON": {
+  "name_en": "Avalonian Goat Sandwich",
+  "name_fr": "Sandwich à la chèvre avalonien",
+  "tier": 4,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH_AVALON"
+ },
+ "T4_MEAL_SANDWICH_AVALON@1": {
+  "name_en": "Avalonian Goat Sandwich",
+  "name_fr": "Sandwich à la chèvre avalonien",
+  "tier": 4,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH_AVALON"
+ },
+ "T4_MEAL_SANDWICH_AVALON@2": {
+  "name_en": "Avalonian Goat Sandwich",
+  "name_fr": "Sandwich à la chèvre avalonien",
+  "tier": 4,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH_AVALON"
+ },
+ "T4_MEAL_SANDWICH_AVALON@3": {
+  "name_en": "Avalonian Goat Sandwich",
+  "name_fr": "Sandwich à la chèvre avalonien",
+  "tier": 4,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH_AVALON"
+ },
+ "T4_MEAL_SANDWICH_FISH": {
+  "name_en": "Stonestream Lurcher Sandwich",
+  "name_fr": "Sandwich à la loche pétrée",
+  "tier": 4,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH_FISH"
+ },
+ "T4_MEAL_SANDWICH_FISH@1": {
+  "name_en": "Stonestream Lurcher Sandwich",
+  "name_fr": "Sandwich à la loche pétrée",
+  "tier": 4,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH_FISH"
+ },
+ "T4_MEAL_SANDWICH_FISH@2": {
+  "name_en": "Stonestream Lurcher Sandwich",
+  "name_fr": "Sandwich à la loche pétrée",
+  "tier": 4,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH_FISH"
+ },
+ "T4_MEAL_SANDWICH_FISH@3": {
+  "name_en": "Stonestream Lurcher Sandwich",
+  "name_fr": "Sandwich à la loche pétrée",
+  "tier": 4,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH_FISH"
+ },
+ "T4_MEAL_STEW": {
+  "name_en": "Goat Stew",
+  "name_fr": "Ragoût de chèvre",
+  "tier": 4,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW"
+ },
+ "T4_MEAL_STEW@1": {
+  "name_en": "Goat Stew",
+  "name_fr": "Ragoût de chèvre",
+  "tier": 4,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW"
+ },
+ "T4_MEAL_STEW@2": {
+  "name_en": "Goat Stew",
+  "name_fr": "Ragoût de chèvre",
+  "tier": 4,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW"
+ },
+ "T4_MEAL_STEW@3": {
+  "name_en": "Goat Stew",
+  "name_fr": "Ragoût de chèvre",
+  "tier": 4,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW"
+ },
+ "T4_MEAL_STEW_AVALON": {
+  "name_en": "Avalonian Goat Stew",
+  "name_fr": "Ragoût de chèvre avalonien",
+  "tier": 4,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW_AVALON"
+ },
+ "T4_MEAL_STEW_AVALON@1": {
+  "name_en": "Avalonian Goat Stew",
+  "name_fr": "Ragoût de chèvre avalonien",
+  "tier": 4,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW_AVALON"
+ },
+ "T4_MEAL_STEW_AVALON@2": {
+  "name_en": "Avalonian Goat Stew",
+  "name_fr": "Ragoût de chèvre avalonien",
+  "tier": 4,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW_AVALON"
+ },
+ "T4_MEAL_STEW_AVALON@3": {
+  "name_en": "Avalonian Goat Stew",
+  "name_fr": "Ragoût de chèvre avalonien",
+  "tier": 4,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW_AVALON"
+ },
+ "T4_MEAL_STEW_FISH": {
+  "name_en": "Greenriver Eel Stew",
+  "name_fr": "Ragoût d'anguille verte",
+  "tier": 4,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW_FISH"
+ },
+ "T4_MEAL_STEW_FISH@1": {
+  "name_en": "Greenriver Eel Stew",
+  "name_fr": "Ragoût d'anguille verte",
+  "tier": 4,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW_FISH"
+ },
+ "T4_MEAL_STEW_FISH@2": {
+  "name_en": "Greenriver Eel Stew",
+  "name_fr": "Ragoût d'anguille verte",
+  "tier": 4,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW_FISH"
+ },
+ "T4_MEAL_STEW_FISH@3": {
+  "name_en": "Greenriver Eel Stew",
+  "name_fr": "Ragoût d'anguille verte",
+  "tier": 4,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW_FISH"
+ },
+ "T4_MEAT": {
+  "name_en": "Raw Goat",
+  "name_fr": "Chèvre crue",
+  "tier": 4,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": ""
+ },
+ "T4_MILK": {
+  "name_en": "Goat's Milk",
+  "name_fr": "Lait de chèvre",
+  "tier": 4,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": ""
+ },
+ "T4_TURNIP": {
+  "name_en": "Turnips",
+  "name_fr": "Navets",
+  "tier": 4,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": ""
+ },
+ "T5_CABBAGE": {
+  "name_en": "Cabbage",
+  "name_fr": "Choux",
+  "tier": 5,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": ""
+ },
+ "T5_EGG": {
+  "name_en": "Goose Eggs",
+  "name_fr": "Œuf d'oie",
+  "tier": 5,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": ""
+ },
+ "T5_FISH_FRESHWATER_ALL_COMMON": {
+  "name_en": "Spotted Trout",
+  "name_fr": "Truite mouchetée",
+  "tier": 5,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T5_FISH_FRESHWATER_AVALON_RARE": {
+  "name_en": "Clearhaze Snapper",
+  "name_fr": "Lutjan clairebrumasse",
+  "tier": 5,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T5_FISH_FRESHWATER_FOREST_RARE": {
+  "name_en": "Redspring Eel",
+  "name_fr": "Anguille rosée",
+  "tier": 5,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T5_FISH_FRESHWATER_HIGHLANDS_RARE": {
+  "name_en": "Rushwater Lurcher",
+  "name_fr": "Loche franche",
+  "tier": 5,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T5_FISH_FRESHWATER_MOUNTAIN_RARE": {
+  "name_en": "Mountain Blindeye",
+  "name_fr": "Cavernicole montagneux",
+  "tier": 5,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T5_FISH_FRESHWATER_STEPPE_RARE": {
+  "name_en": "Drybrook Crab",
+  "name_fr": "Crabe de rivière",
+  "tier": 5,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T5_FISH_FRESHWATER_SWAMP_RARE": {
+  "name_en": "Murkwater Clam",
+  "name_fr": "Palourde vaseuse",
+  "tier": 5,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T5_FISH_SALTWATER_ALL_COMMON": {
+  "name_en": "Spotted Wolffish",
+  "name_fr": "Poisson-loup tacheté",
+  "tier": 5,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T5_FISH_SALTWATER_ALL_RARE": {
+  "name_en": "Midwater Octopus",
+  "name_fr": "Petite pieuvre",
+  "tier": 5,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T5_MEAL_OMELETTE": {
+  "name_en": "Goose Omelette",
+  "name_fr": "Omelette à l'oie",
+  "tier": 5,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE"
+ },
+ "T5_MEAL_OMELETTE@1": {
+  "name_en": "Goose Omelette",
+  "name_fr": "Omelette à l'oie",
+  "tier": 5,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE"
+ },
+ "T5_MEAL_OMELETTE@2": {
+  "name_en": "Goose Omelette",
+  "name_fr": "Omelette à l'oie",
+  "tier": 5,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE"
+ },
+ "T5_MEAL_OMELETTE@3": {
+  "name_en": "Goose Omelette",
+  "name_fr": "Omelette à l'oie",
+  "tier": 5,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE"
+ },
+ "T5_MEAL_OMELETTE_AVALON": {
+  "name_en": "Avalonian Goose Omelette",
+  "name_fr": "Omelette d'oie avalonienne",
+  "tier": 5,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE_AVALON"
+ },
+ "T5_MEAL_OMELETTE_AVALON@1": {
+  "name_en": "Avalonian Goose Omelette",
+  "name_fr": "Omelette d'oie avalonienne",
+  "tier": 5,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE_AVALON"
+ },
+ "T5_MEAL_OMELETTE_AVALON@2": {
+  "name_en": "Avalonian Goose Omelette",
+  "name_fr": "Omelette d'oie avalonienne",
+  "tier": 5,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE_AVALON"
+ },
+ "T5_MEAL_OMELETTE_AVALON@3": {
+  "name_en": "Avalonian Goose Omelette",
+  "name_fr": "Omelette d'oie avalonienne",
+  "tier": 5,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE_AVALON"
+ },
+ "T5_MEAL_OMELETTE_FISH": {
+  "name_en": "Drybrook Crab Omelette",
+  "name_fr": "Omelette au crabe de rivière",
+  "tier": 5,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE_FISH"
+ },
+ "T5_MEAL_OMELETTE_FISH@1": {
+  "name_en": "Drybrook Crab Omelette",
+  "name_fr": "Omelette au crabe de rivière",
+  "tier": 5,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE_FISH"
+ },
+ "T5_MEAL_OMELETTE_FISH@2": {
+  "name_en": "Drybrook Crab Omelette",
+  "name_fr": "Omelette au crabe de rivière",
+  "tier": 5,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE_FISH"
+ },
+ "T5_MEAL_OMELETTE_FISH@3": {
+  "name_en": "Drybrook Crab Omelette",
+  "name_fr": "Omelette au crabe de rivière",
+  "tier": 5,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE_FISH"
+ },
+ "T5_MEAL_PIE": {
+  "name_en": "Goose Pie",
+  "name_fr": "Tourte à l'oie",
+  "tier": 5,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "PIE"
+ },
+ "T5_MEAL_PIE@1": {
+  "name_en": "Goose Pie",
+  "name_fr": "Tourte à l'oie",
+  "tier": 5,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "PIE"
+ },
+ "T5_MEAL_PIE@2": {
+  "name_en": "Goose Pie",
+  "name_fr": "Tourte à l'oie",
+  "tier": 5,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "PIE"
+ },
+ "T5_MEAL_PIE@3": {
+  "name_en": "Goose Pie",
+  "name_fr": "Tourte à l'oie",
+  "tier": 5,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "PIE"
+ },
+ "T5_MEAL_PIE_FISH": {
+  "name_en": "Mountain Blindeye Pie",
+  "name_fr": "Tourte au cavernicole montagneux",
+  "tier": 5,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "PIE_FISH"
+ },
+ "T5_MEAL_PIE_FISH@1": {
+  "name_en": "Mountain Blindeye Pie",
+  "name_fr": "Tourte au cavernicole montagneux",
+  "tier": 5,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "PIE_FISH"
+ },
+ "T5_MEAL_PIE_FISH@2": {
+  "name_en": "Mountain Blindeye Pie",
+  "name_fr": "Tourte au cavernicole montagneux",
+  "tier": 5,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "PIE_FISH"
+ },
+ "T5_MEAL_PIE_FISH@3": {
+  "name_en": "Mountain Blindeye Pie",
+  "name_fr": "Tourte au cavernicole montagneux",
+  "tier": 5,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "PIE_FISH"
+ },
+ "T5_MEAL_ROAST": {
+  "name_en": "Roast Goose",
+  "name_fr": "Oie rôtie",
+  "tier": 5,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "ROAST"
+ },
+ "T5_MEAL_ROAST@1": {
+  "name_en": "Roast Goose",
+  "name_fr": "Oie rôtie",
+  "tier": 5,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "ROAST"
+ },
+ "T5_MEAL_ROAST@2": {
+  "name_en": "Roast Goose",
+  "name_fr": "Oie rôtie",
+  "tier": 5,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "ROAST"
+ },
+ "T5_MEAL_ROAST@3": {
+  "name_en": "Roast Goose",
+  "name_fr": "Oie rôtie",
+  "tier": 5,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "ROAST"
+ },
+ "T5_MEAL_ROAST_FISH": {
+  "name_en": "Roasted Clearhaze Snapper",
+  "name_fr": "Lutjan clairebrumasse rôti",
+  "tier": 5,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "ROAST_FISH"
+ },
+ "T5_MEAL_ROAST_FISH@1": {
+  "name_en": "Roasted Clearhaze Snapper",
+  "name_fr": "Lutjan clairebrumasse rôti",
+  "tier": 5,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "ROAST_FISH"
+ },
+ "T5_MEAL_ROAST_FISH@2": {
+  "name_en": "Roasted Clearhaze Snapper",
+  "name_fr": "Lutjan clairebrumasse rôti",
+  "tier": 5,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "ROAST_FISH"
+ },
+ "T5_MEAL_ROAST_FISH@3": {
+  "name_en": "Roasted Clearhaze Snapper",
+  "name_fr": "Lutjan clairebrumasse rôti",
+  "tier": 5,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "ROAST_FISH"
+ },
+ "T5_MEAL_SOUP": {
+  "name_en": "Cabbage Soup",
+  "name_fr": "Soupe aux choux",
+  "tier": 5,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "SOUP"
+ },
+ "T5_MEAL_SOUP@1": {
+  "name_en": "Cabbage Soup",
+  "name_fr": "Soupe aux choux",
+  "tier": 5,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "SOUP"
+ },
+ "T5_MEAL_SOUP@2": {
+  "name_en": "Cabbage Soup",
+  "name_fr": "Soupe aux choux",
+  "tier": 5,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "SOUP"
+ },
+ "T5_MEAL_SOUP@3": {
+  "name_en": "Cabbage Soup",
+  "name_fr": "Soupe aux choux",
+  "tier": 5,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "SOUP"
+ },
+ "T5_MEAL_SOUP_FISH": {
+  "name_en": "Blackbog Clam Soup",
+  "name_fr": "Soupe de palourdes noirebières",
+  "tier": 5,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "SOUP_FISH"
+ },
+ "T5_MEAL_SOUP_FISH@1": {
+  "name_en": "Blackbog Clam Soup",
+  "name_fr": "Soupe de palourdes noirebières",
+  "tier": 5,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "SOUP_FISH"
+ },
+ "T5_MEAL_SOUP_FISH@2": {
+  "name_en": "Blackbog Clam Soup",
+  "name_fr": "Soupe de palourdes noirebières",
+  "tier": 5,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "SOUP_FISH"
+ },
+ "T5_MEAL_SOUP_FISH@3": {
+  "name_en": "Blackbog Clam Soup",
+  "name_fr": "Soupe de palourdes noirebières",
+  "tier": 5,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "SOUP_FISH"
+ },
+ "T5_MEAT": {
+  "name_en": "Raw Goose",
+  "name_fr": "Oie crue",
+  "tier": 5,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": ""
+ },
+ "T5_TEASEL": {
+  "name_en": "Dragon Teasel",
+  "name_fr": "Cardère incendiaire",
+  "tier": 5,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": ""
+ },
+ "T6_ALCOHOL": {
+  "name_en": "Potato Schnapps",
+  "name_fr": "Schnaps de patate",
+  "tier": 6,
+  "enchant": 0,
+  "craftable": true,
+  "category": "refined",
+  "family": ""
+ },
+ "T6_BUTTER": {
+  "name_en": "Sheep's Butter",
+  "name_fr": "Beurre de mouton",
+  "tier": 6,
+  "enchant": 0,
+  "craftable": true,
+  "category": "refined",
+  "family": ""
+ },
+ "T6_FISH_FRESHWATER_ALL_COMMON": {
+  "name_en": "Brightscale Zander",
+  "name_fr": "Sandre vif-éclat",
+  "tier": 6,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T6_FISH_SALTWATER_ALL_COMMON": {
+  "name_en": "Strongfin Salmon",
+  "name_fr": "Saumon chien",
+  "tier": 6,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T6_FOXGLOVE": {
+  "name_en": "Elusive Foxglove",
+  "name_fr": "Digitale furtive",
+  "tier": 6,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": ""
+ },
+ "T6_MEAL_SALAD": {
+  "name_en": "Potato Salad",
+  "name_fr": "Salade de patates",
+  "tier": 6,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "SALAD"
+ },
+ "T6_MEAL_SALAD@1": {
+  "name_en": "Potato Salad",
+  "name_fr": "Salade de patates",
+  "tier": 6,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "SALAD"
+ },
+ "T6_MEAL_SALAD@2": {
+  "name_en": "Potato Salad",
+  "name_fr": "Salade de patates",
+  "tier": 6,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "SALAD"
+ },
+ "T6_MEAL_SALAD@3": {
+  "name_en": "Potato Salad",
+  "name_fr": "Salade de patates",
+  "tier": 6,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "SALAD"
+ },
+ "T6_MEAL_SALAD_FISH": {
+  "name_en": "Deepwater Kraken Salad",
+  "name_fr": "Salade de krakens des profondeurs",
+  "tier": 6,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "SALAD_FISH"
+ },
+ "T6_MEAL_SALAD_FISH@1": {
+  "name_en": "Deepwater Kraken Salad",
+  "name_fr": "Salade de krakens des profondeurs",
+  "tier": 6,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "SALAD_FISH"
+ },
+ "T6_MEAL_SALAD_FISH@2": {
+  "name_en": "Deepwater Kraken Salad",
+  "name_fr": "Salade de krakens des profondeurs",
+  "tier": 6,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "SALAD_FISH"
+ },
+ "T6_MEAL_SALAD_FISH@3": {
+  "name_en": "Deepwater Kraken Salad",
+  "name_fr": "Salade de krakens des profondeurs",
+  "tier": 6,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "SALAD_FISH"
+ },
+ "T6_MEAL_SANDWICH": {
+  "name_en": "Mutton Sandwich",
+  "name_fr": "Sandwich au mouton",
+  "tier": 6,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH"
+ },
+ "T6_MEAL_SANDWICH@1": {
+  "name_en": "Mutton Sandwich",
+  "name_fr": "Sandwich au mouton",
+  "tier": 6,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH"
+ },
+ "T6_MEAL_SANDWICH@2": {
+  "name_en": "Mutton Sandwich",
+  "name_fr": "Sandwich au mouton",
+  "tier": 6,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH"
+ },
+ "T6_MEAL_SANDWICH@3": {
+  "name_en": "Mutton Sandwich",
+  "name_fr": "Sandwich au mouton",
+  "tier": 6,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH"
+ },
+ "T6_MEAL_SANDWICH_AVALON": {
+  "name_en": "Avalonian Mutton Sandwich",
+  "name_fr": "Sandwich au mouton avalonien",
+  "tier": 6,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH_AVALON"
+ },
+ "T6_MEAL_SANDWICH_AVALON@1": {
+  "name_en": "Avalonian Mutton Sandwich",
+  "name_fr": "Sandwich au mouton avalonien",
+  "tier": 6,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH_AVALON"
+ },
+ "T6_MEAL_SANDWICH_AVALON@2": {
+  "name_en": "Avalonian Mutton Sandwich",
+  "name_fr": "Sandwich au mouton avalonien",
+  "tier": 6,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH_AVALON"
+ },
+ "T6_MEAL_SANDWICH_AVALON@3": {
+  "name_en": "Avalonian Mutton Sandwich",
+  "name_fr": "Sandwich au mouton avalonien",
+  "tier": 6,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH_AVALON"
+ },
+ "T6_MEAL_SANDWICH_FISH": {
+  "name_en": "Rushwater Lurcher Sandwich",
+  "name_fr": "Sandwich à la loche franche",
+  "tier": 6,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH_FISH"
+ },
+ "T6_MEAL_SANDWICH_FISH@1": {
+  "name_en": "Rushwater Lurcher Sandwich",
+  "name_fr": "Sandwich à la loche franche",
+  "tier": 6,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH_FISH"
+ },
+ "T6_MEAL_SANDWICH_FISH@2": {
+  "name_en": "Rushwater Lurcher Sandwich",
+  "name_fr": "Sandwich à la loche franche",
+  "tier": 6,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH_FISH"
+ },
+ "T6_MEAL_SANDWICH_FISH@3": {
+  "name_en": "Rushwater Lurcher Sandwich",
+  "name_fr": "Sandwich à la loche franche",
+  "tier": 6,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH_FISH"
+ },
+ "T6_MEAL_STEW": {
+  "name_en": "Mutton Stew",
+  "name_fr": "Ragoût de mouton",
+  "tier": 6,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW"
+ },
+ "T6_MEAL_STEW@1": {
+  "name_en": "Mutton Stew",
+  "name_fr": "Ragoût de mouton",
+  "tier": 6,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW"
+ },
+ "T6_MEAL_STEW@2": {
+  "name_en": "Mutton Stew",
+  "name_fr": "Ragoût de mouton",
+  "tier": 6,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW"
+ },
+ "T6_MEAL_STEW@3": {
+  "name_en": "Mutton Stew",
+  "name_fr": "Ragoût de mouton",
+  "tier": 6,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW"
+ },
+ "T6_MEAL_STEW_AVALON": {
+  "name_en": "Avalonian Mutton Stew",
+  "name_fr": "Ragoût de mouton avalonien",
+  "tier": 6,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW_AVALON"
+ },
+ "T6_MEAL_STEW_AVALON@1": {
+  "name_en": "Avalonian Mutton Stew",
+  "name_fr": "Ragoût de mouton avalonien",
+  "tier": 6,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW_AVALON"
+ },
+ "T6_MEAL_STEW_AVALON@2": {
+  "name_en": "Avalonian Mutton Stew",
+  "name_fr": "Ragoût de mouton avalonien",
+  "tier": 6,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW_AVALON"
+ },
+ "T6_MEAL_STEW_AVALON@3": {
+  "name_en": "Avalonian Mutton Stew",
+  "name_fr": "Ragoût de mouton avalonien",
+  "tier": 6,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW_AVALON"
+ },
+ "T6_MEAL_STEW_FISH": {
+  "name_en": "Redspring Eel Stew",
+  "name_fr": "Ragoût d'anguille rosée",
+  "tier": 6,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW_FISH"
+ },
+ "T6_MEAL_STEW_FISH@1": {
+  "name_en": "Redspring Eel Stew",
+  "name_fr": "Ragoût d'anguille rosée",
+  "tier": 6,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW_FISH"
+ },
+ "T6_MEAL_STEW_FISH@2": {
+  "name_en": "Redspring Eel Stew",
+  "name_fr": "Ragoût d'anguille rosée",
+  "tier": 6,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW_FISH"
+ },
+ "T6_MEAL_STEW_FISH@3": {
+  "name_en": "Redspring Eel Stew",
+  "name_fr": "Ragoût d'anguille rosée",
+  "tier": 6,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW_FISH"
+ },
+ "T6_MEAT": {
+  "name_en": "Raw Mutton",
+  "name_fr": "Mouton cru",
+  "tier": 6,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": ""
+ },
+ "T6_MILK": {
+  "name_en": "Sheep's Milk",
+  "name_fr": "Lait de mouton",
+  "tier": 6,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": ""
+ },
+ "T6_POTATO": {
+  "name_en": "Potatoes",
+  "name_fr": "Patates",
+  "tier": 6,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": ""
+ },
+ "T7_ALCOHOL": {
+  "name_en": "Corn Hooch",
+  "name_fr": "Gnôle de maïs",
+  "tier": 7,
+  "enchant": 0,
+  "craftable": true,
+  "category": "refined",
+  "family": ""
+ },
+ "T7_CORN": {
+  "name_en": "Bundle of Corn",
+  "name_fr": "Gerbe de maïs",
+  "tier": 7,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": ""
+ },
+ "T7_FISH_FRESHWATER_ALL_COMMON": {
+  "name_en": "Danglemouth Catfish",
+  "name_fr": "Poisson-chat margoulin",
+  "tier": 7,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T7_FISH_FRESHWATER_AVALON_RARE": {
+  "name_en": "Puremist Snapper",
+  "name_fr": "Lutjan purebrume",
+  "tier": 7,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T7_FISH_FRESHWATER_FOREST_RARE": {
+  "name_en": "Deadwater Eel",
+  "name_fr": "Anguille morteaux",
+  "tier": 7,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T7_FISH_FRESHWATER_HIGHLANDS_RARE": {
+  "name_en": "Thunderfall Lurcher",
+  "name_fr": "Loche léopard",
+  "tier": 7,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T7_FISH_FRESHWATER_MOUNTAIN_RARE": {
+  "name_en": "Frostpeak Deadeye",
+  "name_fr": "Sar boréal",
+  "tier": 7,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T7_FISH_FRESHWATER_STEPPE_RARE": {
+  "name_en": "Dusthole Crab",
+  "name_fr": "Crabe mantou",
+  "tier": 7,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T7_FISH_FRESHWATER_SWAMP_RARE": {
+  "name_en": "Blackbog Clam",
+  "name_fr": "Palourde noirebière",
+  "tier": 7,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T7_FISH_SALTWATER_ALL_COMMON": {
+  "name_en": "Bluefin Tuna",
+  "name_fr": "Thon rouge",
+  "tier": 7,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T7_FISH_SALTWATER_ALL_RARE": {
+  "name_en": "Deepwater Kraken",
+  "name_fr": "Kraken des profondeurs",
+  "tier": 7,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T7_MEAL_OMELETTE": {
+  "name_en": "Pork Omelette",
+  "name_fr": "Omelette au porc",
+  "tier": 7,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE"
+ },
+ "T7_MEAL_OMELETTE@1": {
+  "name_en": "Pork Omelette",
+  "name_fr": "Omelette au porc",
+  "tier": 7,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE"
+ },
+ "T7_MEAL_OMELETTE@2": {
+  "name_en": "Pork Omelette",
+  "name_fr": "Omelette au porc",
+  "tier": 7,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE"
+ },
+ "T7_MEAL_OMELETTE@3": {
+  "name_en": "Pork Omelette",
+  "name_fr": "Omelette au porc",
+  "tier": 7,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE"
+ },
+ "T7_MEAL_OMELETTE_AVALON": {
+  "name_en": "Avalonian Pork Omelette",
+  "name_fr": "Omelette au porc avalonienne",
+  "tier": 7,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE_AVALON"
+ },
+ "T7_MEAL_OMELETTE_AVALON@1": {
+  "name_en": "Avalonian Pork Omelette",
+  "name_fr": "Omelette au porc avalonienne",
+  "tier": 7,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE_AVALON"
+ },
+ "T7_MEAL_OMELETTE_AVALON@2": {
+  "name_en": "Avalonian Pork Omelette",
+  "name_fr": "Omelette au porc avalonienne",
+  "tier": 7,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE_AVALON"
+ },
+ "T7_MEAL_OMELETTE_AVALON@3": {
+  "name_en": "Avalonian Pork Omelette",
+  "name_fr": "Omelette au porc avalonienne",
+  "tier": 7,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE_AVALON"
+ },
+ "T7_MEAL_OMELETTE_FISH": {
+  "name_en": "Dusthole Crab Omelette",
+  "name_fr": "Omelette au crabe mantou",
+  "tier": 7,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE_FISH"
+ },
+ "T7_MEAL_OMELETTE_FISH@1": {
+  "name_en": "Dusthole Crab Omelette",
+  "name_fr": "Omelette au crabe mantou",
+  "tier": 7,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE_FISH"
+ },
+ "T7_MEAL_OMELETTE_FISH@2": {
+  "name_en": "Dusthole Crab Omelette",
+  "name_fr": "Omelette au crabe mantou",
+  "tier": 7,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE_FISH"
+ },
+ "T7_MEAL_OMELETTE_FISH@3": {
+  "name_en": "Dusthole Crab Omelette",
+  "name_fr": "Omelette au crabe mantou",
+  "tier": 7,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "OMELETTE_FISH"
+ },
+ "T7_MEAL_PIE": {
+  "name_en": "Pork Pie",
+  "name_fr": "Tourte au porc",
+  "tier": 7,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "PIE"
+ },
+ "T7_MEAL_PIE@1": {
+  "name_en": "Pork Pie",
+  "name_fr": "Tourte au porc",
+  "tier": 7,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "PIE"
+ },
+ "T7_MEAL_PIE@2": {
+  "name_en": "Pork Pie",
+  "name_fr": "Tourte au porc",
+  "tier": 7,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "PIE"
+ },
+ "T7_MEAL_PIE@3": {
+  "name_en": "Pork Pie",
+  "name_fr": "Tourte au porc",
+  "tier": 7,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "PIE"
+ },
+ "T7_MEAL_PIE_FISH": {
+  "name_en": "Frostpeak Deadeye Pie",
+  "name_fr": "Tourte au sar boréal",
+  "tier": 7,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "PIE_FISH"
+ },
+ "T7_MEAL_PIE_FISH@1": {
+  "name_en": "Frostpeak Deadeye Pie",
+  "name_fr": "Tourte au sar boréal",
+  "tier": 7,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "PIE_FISH"
+ },
+ "T7_MEAL_PIE_FISH@2": {
+  "name_en": "Frostpeak Deadeye Pie",
+  "name_fr": "Tourte au sar boréal",
+  "tier": 7,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "PIE_FISH"
+ },
+ "T7_MEAL_PIE_FISH@3": {
+  "name_en": "Frostpeak Deadeye Pie",
+  "name_fr": "Tourte au sar boréal",
+  "tier": 7,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "PIE_FISH"
+ },
+ "T7_MEAL_ROAST": {
+  "name_en": "Roast Pork",
+  "name_fr": "Porc rôti",
+  "tier": 7,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "ROAST"
+ },
+ "T7_MEAL_ROAST@1": {
+  "name_en": "Roast Pork",
+  "name_fr": "Porc rôti",
+  "tier": 7,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "ROAST"
+ },
+ "T7_MEAL_ROAST@2": {
+  "name_en": "Roast Pork",
+  "name_fr": "Porc rôti",
+  "tier": 7,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "ROAST"
+ },
+ "T7_MEAL_ROAST@3": {
+  "name_en": "Roast Pork",
+  "name_fr": "Porc rôti",
+  "tier": 7,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "ROAST"
+ },
+ "T7_MEAL_ROAST_FISH": {
+  "name_en": "Roasted Puremist Snapper",
+  "name_fr": "Lutjan purebrume rôti",
+  "tier": 7,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "ROAST_FISH"
+ },
+ "T7_MEAL_ROAST_FISH@1": {
+  "name_en": "Roasted Puremist Snapper",
+  "name_fr": "Lutjan purebrume rôti",
+  "tier": 7,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "ROAST_FISH"
+ },
+ "T7_MEAL_ROAST_FISH@2": {
+  "name_en": "Roasted Puremist Snapper",
+  "name_fr": "Lutjan purebrume rôti",
+  "tier": 7,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "ROAST_FISH"
+ },
+ "T7_MEAL_ROAST_FISH@3": {
+  "name_en": "Roasted Puremist Snapper",
+  "name_fr": "Lutjan purebrume rôti",
+  "tier": 7,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "ROAST_FISH"
+ },
+ "T7_MEAT": {
+  "name_en": "Raw Pork",
+  "name_fr": "Porc cru",
+  "tier": 7,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": ""
+ },
+ "T7_MULLEIN": {
+  "name_en": "Firetouched Mullein",
+  "name_fr": "Molène ardente",
+  "tier": 7,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": ""
+ },
+ "T8_ALCOHOL": {
+  "name_en": "Pumpkin Moonshine",
+  "name_fr": "Gnôle de citrouille",
+  "tier": 8,
+  "enchant": 0,
+  "craftable": true,
+  "category": "refined",
+  "family": ""
+ },
+ "T8_BUTTER": {
+  "name_en": "Cow's Butter",
+  "name_fr": "Beurre de vache",
+  "tier": 8,
+  "enchant": 0,
+  "craftable": true,
+  "category": "refined",
+  "family": ""
+ },
+ "T8_FISH_FRESHWATER_ALL_COMMON": {
+  "name_en": "River Sturgeon",
+  "name_fr": "Esturgeon de rivière",
+  "tier": 8,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T8_FISH_SALTWATER_ALL_BOSS_SHARK": {
+  "name_en": "Shark",
+  "name_fr": "Requin",
+  "tier": 8,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T8_FISH_SALTWATER_ALL_COMMON": {
+  "name_en": "Steelscale Swordfish",
+  "name_fr": "Espadon aciécailles",
+  "tier": 8,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": "OTHER"
+ },
+ "T8_MEAL_SANDWICH": {
+  "name_en": "Beef Sandwich",
+  "name_fr": "Sandwich au bœuf",
+  "tier": 8,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH"
+ },
+ "T8_MEAL_SANDWICH@1": {
+  "name_en": "Beef Sandwich",
+  "name_fr": "Sandwich au bœuf",
+  "tier": 8,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH"
+ },
+ "T8_MEAL_SANDWICH@2": {
+  "name_en": "Beef Sandwich",
+  "name_fr": "Sandwich au bœuf",
+  "tier": 8,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH"
+ },
+ "T8_MEAL_SANDWICH@3": {
+  "name_en": "Beef Sandwich",
+  "name_fr": "Sandwich au bœuf",
+  "tier": 8,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH"
+ },
+ "T8_MEAL_SANDWICH_AVALON": {
+  "name_en": "Avalonian Beef Sandwich",
+  "name_fr": "Sandwich au bœuf avalonien",
+  "tier": 8,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH_AVALON"
+ },
+ "T8_MEAL_SANDWICH_AVALON@1": {
+  "name_en": "Avalonian Beef Sandwich",
+  "name_fr": "Sandwich au bœuf avalonien",
+  "tier": 8,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH_AVALON"
+ },
+ "T8_MEAL_SANDWICH_AVALON@2": {
+  "name_en": "Avalonian Beef Sandwich",
+  "name_fr": "Sandwich au bœuf avalonien",
+  "tier": 8,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH_AVALON"
+ },
+ "T8_MEAL_SANDWICH_AVALON@3": {
+  "name_en": "Avalonian Beef Sandwich",
+  "name_fr": "Sandwich au bœuf avalonien",
+  "tier": 8,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH_AVALON"
+ },
+ "T8_MEAL_SANDWICH_FISH": {
+  "name_en": "Thunderfall Lurcher Sandwich",
+  "name_fr": "Sandwich à la loche léopard",
+  "tier": 8,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH_FISH"
+ },
+ "T8_MEAL_SANDWICH_FISH@1": {
+  "name_en": "Thunderfall Lurcher Sandwich",
+  "name_fr": "Sandwich à la loche léopard",
+  "tier": 8,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH_FISH"
+ },
+ "T8_MEAL_SANDWICH_FISH@2": {
+  "name_en": "Thunderfall Lurcher Sandwich",
+  "name_fr": "Sandwich à la loche léopard",
+  "tier": 8,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH_FISH"
+ },
+ "T8_MEAL_SANDWICH_FISH@3": {
+  "name_en": "Thunderfall Lurcher Sandwich",
+  "name_fr": "Sandwich à la loche léopard",
+  "tier": 8,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "SANDWICH_FISH"
+ },
+ "T8_MEAL_STEW": {
+  "name_en": "Beef Stew",
+  "name_fr": "Ragoût de bœuf",
+  "tier": 8,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW"
+ },
+ "T8_MEAL_STEW@1": {
+  "name_en": "Beef Stew",
+  "name_fr": "Ragoût de bœuf",
+  "tier": 8,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW"
+ },
+ "T8_MEAL_STEW@2": {
+  "name_en": "Beef Stew",
+  "name_fr": "Ragoût de bœuf",
+  "tier": 8,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW"
+ },
+ "T8_MEAL_STEW@3": {
+  "name_en": "Beef Stew",
+  "name_fr": "Ragoût de bœuf",
+  "tier": 8,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW"
+ },
+ "T8_MEAL_STEW_AVALON": {
+  "name_en": "Avalonian Beef Stew",
+  "name_fr": "Ragoût de bœuf avalonien",
+  "tier": 8,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW_AVALON"
+ },
+ "T8_MEAL_STEW_AVALON@1": {
+  "name_en": "Avalonian Beef Stew",
+  "name_fr": "Ragoût de bœuf avalonien",
+  "tier": 8,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW_AVALON"
+ },
+ "T8_MEAL_STEW_AVALON@2": {
+  "name_en": "Avalonian Beef Stew",
+  "name_fr": "Ragoût de bœuf avalonien",
+  "tier": 8,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW_AVALON"
+ },
+ "T8_MEAL_STEW_AVALON@3": {
+  "name_en": "Avalonian Beef Stew",
+  "name_fr": "Ragoût de bœuf avalonien",
+  "tier": 8,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW_AVALON"
+ },
+ "T8_MEAL_STEW_FISH": {
+  "name_en": "Deadwater Eel Stew",
+  "name_fr": "Ragoût d'anguille morteaux",
+  "tier": 8,
+  "enchant": 0,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW_FISH"
+ },
+ "T8_MEAL_STEW_FISH@1": {
+  "name_en": "Deadwater Eel Stew",
+  "name_fr": "Ragoût d'anguille morteaux",
+  "tier": 8,
+  "enchant": 1,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW_FISH"
+ },
+ "T8_MEAL_STEW_FISH@2": {
+  "name_en": "Deadwater Eel Stew",
+  "name_fr": "Ragoût d'anguille morteaux",
+  "tier": 8,
+  "enchant": 2,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW_FISH"
+ },
+ "T8_MEAL_STEW_FISH@3": {
+  "name_en": "Deadwater Eel Stew",
+  "name_fr": "Ragoût d'anguille morteaux",
+  "tier": 8,
+  "enchant": 3,
+  "craftable": true,
+  "category": "meal",
+  "family": "STEW_FISH"
+ },
+ "T8_MEAT": {
+  "name_en": "Raw Beef",
+  "name_fr": "Bœuf cru",
+  "tier": 8,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": ""
+ },
+ "T8_MILK": {
+  "name_en": "Cow's Milk",
+  "name_fr": "Lait de vache",
+  "tier": 8,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": ""
+ },
+ "T8_PUMPKIN": {
+  "name_en": "Pumpkin",
+  "name_fr": "Citrouille",
+  "tier": 8,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": ""
+ },
+ "T8_YARROW": {
+  "name_en": "Ghoul Yarrow",
+  "name_fr": "Mille-feuille morbide",
+  "tier": 8,
+  "enchant": 0,
+  "craftable": false,
+  "category": "resource",
+  "family": ""
+ }
+}
